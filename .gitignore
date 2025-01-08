@@ -11,3 +11,6 @@
 
 #!.yarn/cache
 .pnp.*
+
+# wallet private key
+/dev-wallet.json
