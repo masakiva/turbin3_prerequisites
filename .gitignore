@@ -13,4 +13,4 @@
 .pnp.*
 
 # wallet private key
-/dev-wallet.json
+*wallet.json
